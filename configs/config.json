@@ -1,0 +1,17 @@
+{
+    "client_id": "1006722068433358870",
+    "details": "Присоединяйтесь!",
+    "state": "",
+    "large_image": "logo",
+    "small_image": "",
+    "buttons": [
+        {
+            "label": "Discord Server",
+            "url": "https://discord.gg/pGXSVaAWxs"
+        },
+        {
+            "label": "Surprise link",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+    ]
+}
