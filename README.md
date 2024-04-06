@@ -2,4 +2,4 @@
 
 ### Oficial website: [click here](https://bushpresence.rydve.xyz/)
 
-Discord Rich Presence made by BushSquad
+Discord Rich Presence manager application made by BushSquad Community.
