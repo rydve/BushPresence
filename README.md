@@ -1,5 +1,15 @@
-# ![bsp_icon]([https://cdn.discordapp.com/attachments/965668635785957436/1226303488716443812/imageedit_1_3276091236.png?ex=6624471f&is=6611d21f&hm=9d089601415b4aed095544b2ccce1da73987d7ecfbf29ce0cf0a0dad3fb81543&](https://media.discordapp.net/attachments/965668635785957436/1226303099510063185/imageedit_1_6157371093.png?ex=662446c2&is=6611d1c2&hm=0378e457ee1efa8ea5369ea87bcc23733db7be1392cbb6d05ec4b27192e1ee06&=&format=webp&quality=lossless&width=911&height=911)) BushPresence is a Discord Rich Presence made by BushSquad
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/965668635785957436/1226309264625373274/imageedit_8_5786916950.png?ex=66244c80&is=6611d780&hm=f0db7feedc7322c3958a15b1f5681d40d7442766aeca20656bef1b788adc5b19&" alt="BushPresence_icon">
+</p>
 
-### ![web_image](https://media.discordapp.net/attachments/965668635785957436/1226304216293703680/icons8--50.png?ex=662447cc&is=6611d2cc&hm=c4a437f185b00acc2f59b6f0073855c9cf4a6723b84512308d444df82bd7f59c&=&format=webp&quality=lossless&width=62&height=62) Oficial website: [click here](https://bushpresence.rydve.xyz/)
+# <p align="center">BushPresence is an application created by the BushSquad Community that allows the user to create a custom activity in discord. </p>
 
-### ![discord_image](https://media.discordapp.net/attachments/965668635785957436/1226305392045195386/imageedit_5_8431020607.png?ex=662448e5&is=6611d3e5&hm=5cdba1870625f802f7d2dee217ba139a90d463e66b9942072f4dc0d0889d2dc8&=&format=webp&quality=lossless&width=62&height=47) Our Discord Server: [click here](https://discord.gg/pGXSVaAWxs)
+<p align="center">
+  <a href="https://discord.gg/pGXSVaAWxs">
+    <img src="https://media.discordapp.net/attachments/965668635785957436/1226312022589702144/icons8-discord-100.png?ex=66244f11&is=6611da11&hm=fa002b588bb6120b8cc04fe853c5a1b7f175ab25c1919ca183b830926df46137&=&format=webp&quality=lossless&width=125&height=125" alt="discord_link" style="margin-right: 10px;">
+  </a>
+  <a href="https://bushpresence.rydve.xyz/">
+    <img src="https://media.discordapp.net/attachments/965668635785957436/1226304216042049686/icons8--100.png?ex=662447cc&is=6611d2cc&hm=04c8777d5be82386bbe0fb8e4a963bad1becec88b78c52f88fea75e70e6a64c0&=&format=webp&quality=lossless&width=125&height=125" alt="website_link">
+  </a>
+</p>
+
