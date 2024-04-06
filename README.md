@@ -1,4 +1,4 @@
-## ![bsp_icon](https://cdn.discordapp.com/attachments/965668635785957436/1226303488716443812/imageedit_1_3276091236.png?ex=6624471f&is=6611d21f&hm=9d089601415b4aed095544b2ccce1da73987d7ecfbf29ce0cf0a0dad3fb81543&) BushPresence is a Discord Rich Presence made by BushSquad
+## ![bsp_icon]([https://cdn.discordapp.com/attachments/965668635785957436/1226303488716443812/imageedit_1_3276091236.png?ex=6624471f&is=6611d21f&hm=9d089601415b4aed095544b2ccce1da73987d7ecfbf29ce0cf0a0dad3fb81543&](https://media.discordapp.net/attachments/965668635785957436/1226303099510063185/imageedit_1_6157371093.png?ex=662446c2&is=6611d1c2&hm=0378e457ee1efa8ea5369ea87bcc23733db7be1392cbb6d05ec4b27192e1ee06&=&format=webp&quality=lossless&width=911&height=911)) BushPresence is a Discord Rich Presence made by BushSquad
 
 ### ![web_image](https://media.discordapp.net/attachments/965668635785957436/1226304216293703680/icons8--50.png?ex=662447cc&is=6611d2cc&hm=c4a437f185b00acc2f59b6f0073855c9cf4a6723b84512308d444df82bd7f59c&=&format=webp&quality=lossless&width=62&height=62) Oficial website: [click here](https://bushpresence.rydve.xyz/)
 
